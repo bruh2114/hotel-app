@@ -1,0 +1,15 @@
+
+.nav ul {
+    background-color: antiquewhite;
+    color: navy;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+h1 {
+    background-color: antiquewhite;
+    color: navy;
+}
+
